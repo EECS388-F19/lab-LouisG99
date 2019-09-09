@@ -7,5 +7,5 @@ print(randA)
 print(randB)
 
 print('Sum =', randA+randB)
-print('Average =', (randA+randB)/2)
+print('Average =', (randA+randB)/2.0)
 
